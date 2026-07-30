@@ -1,0 +1,6 @@
+{
+  "name": "Rahul Mandal - Data Scientist Portfolio",
+  "description": "Interactive Data Science portfolio & AI assistant for Rahul Mandal featuring ML project simulators, interactive BI dashboards, and Gemini AI query engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
